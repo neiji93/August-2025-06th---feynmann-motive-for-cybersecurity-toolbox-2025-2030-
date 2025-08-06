@@ -7,3 +7,5 @@
 //to do that, lets use a database powered by nuclear energy.
 //on the other hand, datas that are not processed will be optimizes 
 //by self resilient systems.
+
+//we can take the most trivial tate variety here.
