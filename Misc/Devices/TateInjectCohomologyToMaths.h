@@ -9,3 +9,9 @@
 //by self resilient systems.
 
 //we can take the most trivial tate variety here.
+
+
+
+//bulk grid could be used with trivial equation.
+//it will also manage wrong bad bits from devices as
+//we dont use rainbow attack.
